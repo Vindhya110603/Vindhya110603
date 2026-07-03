@@ -2,31 +2,33 @@
 
 ## 🚀 About Me
 
-🎓 Final Year Computer Science Student
+🎓 Final Year B.Tech Student in Computer Science & Engineering  
+📚 Specialization: Data Science & Artificial Intelligence
 
-💻 Aspiring Data Scientist
+💻 Passionate about Data Science, Machine Learning, Artificial Intelligence & NLP
 
-🤖 Passionate about Machine Learning, NLP & Artificial Intelligence
+🌱 Currently building real-world AI and Data Science projects while continuously learning new technologies.
 
-🌱 Currently Learning
+## 🛠️ Tech Stack
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Flask
+- Git & GitHub
+
+## 📚 Currently Learning
+
 - Deep Learning
-- Data Science
-- Excel
+- MLOps
 - Power BI
+- Data Visualization
+- Generative AI
 
-🛠️ Tech Stack
-
-* Python
-* SQL
-* Pandas
-* NumPy
-* Scikit-learn
-* TensorFlow
-* Matplotlib
-* Git
-* GitHub
-
-📌 Featured Projects
+## 📌 Featured Projects
 
 🌾 AgroFarm Support System
 
@@ -34,8 +36,12 @@
 
 📊 Data Analysis Projects
 
-📫 Reach Me
+## 🎯 Career Objective
 
-📧 vindhyaraj98522@gmail.com
+To become a Data Scientist and build AI-powered solutions that create real-world impact.
 
-⭐ "Learning, Building and Growing Every Day."
+## 📫 Contact
+
+📧 Email: vindhyaraj98522@gmail.com
+
+⭐ "Learning. Building. Growing."
